@@ -1,5 +1,6 @@
 pytest
 tensorflow==1.15.2
+librosa
 soundfile
 matplotlib
 numpy==1.17.2
